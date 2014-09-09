@@ -1,0 +1,8 @@
+Shell command line tool for pogramming the Velleman PS3005D power supply. The Velleman PS3005D is a single channel (0-30V 0-5A) power supply which can be programmed using USB or RS-232 port. This tool allows to set/read current and voltage. 
+
+* Usage
+
+first make symlink
+
+./ps3005d.sh make-links
+
