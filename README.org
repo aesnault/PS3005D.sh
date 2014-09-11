@@ -2,7 +2,21 @@ Shell command line tool for pogramming the Velleman PS3005D power supply. The Ve
 
 * Usage
 
-first make symlink
-
+** first make symlinks
 ./ps3005d.sh make-links
 
+** commands
+init 
+id
+get-volt
+get-vout 
+get-current 
+get-iout 
+set-volt 
+set-current 
+enable-power 
+disable-power  
+enable-volage-protection 
+disable-volage-protection 
+enable-current-protection 
+disable-current-protection
